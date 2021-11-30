@@ -55,7 +55,7 @@ hi Warning      ctermbg=None ctermfg=110 cterm=None         guibg=None guifg=#87
 hi WarningMsg   ctermbg=None ctermfg=110 cterm=None         guibg=None guifg=#87afd7 gui=None
 hi Todo         ctermbg=None ctermfg=110 cterm=None         guibg=None guifg=#87afd7 gui=None
 hi Cursor       ctermbg=242 ctermfg=254 cterm=None          guibg=#6c6c6c guifg=#e4e4e4 gui=None
-hi CursorLine   ctermbg=242  ctermfg=254 cterm=None         guibg=#262626  guifg=#e4e4e4 gui=Bold
+hi CursorLine   ctermbg=242              cterm=None         guibg=#262626
 hi Directory    ctermbg=234  ctermfg=254 cterm=Underline    guibg=#1c1c1c  guifg=#e4e4e4 gui=Underline
 hi VertSplit    ctermbg=None ctermfg=242 cterm=Bold         guibg=None guifg=#6c6c6c gui=Bold
 hi Folded       ctermbg=None ctermfg=None cterm=None        guibg=None guifg=None gui=None
